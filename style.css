@@ -37,12 +37,8 @@ body *{
 /*caixa principal*/
 #container{
  /*border: 1px solid red; /*Sem borda no momento (didadico)*/
- width: 360px;
- /*height: 800px; Sem necessidade da altura*/
- /*margin-top: 56px; cima*/
- /*margin-right: auto; direita*/
- /*margin-bottom: auto; baixo*/
- /*margin-left: auto; esquerda*/
+ width: 100%;
+ max-width: 588px;
  margin: 56px auto 0px; /*(cima) (direitaesquerda) (baixo)*/
  padding: 0 24px;
 
